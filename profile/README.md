@@ -12,6 +12,8 @@ This is the github repository of ZeMKI, the Centre for Media, Communication and 
 ## Projects
 - [OpenQDA](https://github.com/openqda/openqda): OpenQDA is a free and open-source qualitative data analysis software (QDA) developed by ZeMKI members. It is designed to help researchers to analyze qualitative data.
 - [MeSort](https://github.com/zemki/mesort)
+- [MeTag](https://github.com/zemki/metag)
+- [MeTag-Analyze](https://github.com/zemki/metag-analyze)
 
 ## Links
 - [Website](https://www.zemki.uni-bremen.de/en/)
