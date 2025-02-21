@@ -14,6 +14,8 @@ This is the github repository of ZeMKI, the Centre for Media, Communication and 
 - [MeSort](https://github.com/zemki/mesort)
 - [MeTag](https://github.com/zemki/metag)
 - [MeTag-Analyze](https://github.com/zemki/metag-analyze)
+- [Platform Governance Archive](https://github.com/PlatformGovernanceArchive) & https://github.com/OpenTermsArchive/pga-versions
+  
 
 ## Links
 - [Website](https://www.zemki.uni-bremen.de/en/)
